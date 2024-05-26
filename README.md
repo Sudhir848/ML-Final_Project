@@ -12,6 +12,7 @@ Upon execution, it showed that it had an accuracy rate of 55.28%. This means tha
 
 ## Output of the Program
 <img width="416" alt="image" src="https://github.com/Sudhir848/ML-Final_Project/assets/152313525/72732142-ebd8-4851-bfb4-60401e4ae301">
+
 The program output includes the accuracy of the model and a classification report detailing precision, recall, and F1-scores for each class.
 The accuracy achieved: 55.28%.
 
